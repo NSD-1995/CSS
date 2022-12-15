@@ -1,0 +1,30 @@
+.overall{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:start;
+}
+.Navigation{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    
+
+}
+.ContactHeader{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.NavigationStyle{
+    padding:10px ;
+}
+
+.NavigationFirst{
+    padding:30px ;
+}
+
+.ContactHeaderStyle{
+    padding:10px ;
+}

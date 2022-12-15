@@ -1,0 +1,64 @@
+.OverallImage4 {
+    display: flex;
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 5%;
+   
+
+}
+
+.Image4 {
+
+    border-radius: 50%;
+    padding: 10px;
+    width: 100px;
+}
+
+.website {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.smallbox {
+    width: 100px;
+    height: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.Part1 {
+    width: 40%;
+    height: 300px;
+    margin-bottom: 5%;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 10%;
+
+
+}
+
+.parts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    border-color: aqua;
+    margin-top: 1%;
+}
+
+.discover {
+    width: 50%;
+    height: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    margin-left: 10%;
+}

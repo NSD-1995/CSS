@@ -1,0 +1,78 @@
+.part1set{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+
+table {
+    border: 1px solid black;
+  }
+
+.info{
+    background-color: aquamarine;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.OverallPage3{
+    display: flex;
+}
+
+.partdetails{
+    display:flex;
+    width: 50%;
+
+}
+
+.part2set{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.box1{
+    border-right-style: groove;
+    border-bottom-style: groove;
+    padding: 5%;
+}
+
+.box2{
+    border-bottom-style: groove;
+    padding: 5%;
+}
+
+.box3{
+    border-right-style: groove;
+    padding: 5%;
+}
+.box4{
+
+    padding: 5%;
+}
+
+
+.OverallPage3part2{
+
+    width: 100%;
+
+}
+
+
+.imagelistpag3 {
+    display: flex;
+    width: 60%;
+    justify-content: space-evenly;
+    margin: auto;
+
+}
+
+.imageindividula{
+    width: 50%;
+    height: 100%;
+}
